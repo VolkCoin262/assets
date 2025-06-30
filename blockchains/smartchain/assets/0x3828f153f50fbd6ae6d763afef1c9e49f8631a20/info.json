@@ -1,0 +1,10 @@
+{
+  "name": "Volk Coin",
+  "symbol": "VOLK",
+  "decimals": 18,
+  "description": "Volk Coin is a decentralized token on BNB Smart Chain.",
+  "website": "",
+  "explorer": "https://bscscan.com/token/0x3828f153f50fbd6ae6d763afef1c9e49f8631a20",
+  "status": "active",
+  "id": "0x3828f153f50fbd6ae6d763afef1c9e49f8631a20"
+}
